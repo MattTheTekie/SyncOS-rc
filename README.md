@@ -1,7 +1,7 @@
 # syncos
 SyncOS is an operating system based on Armbian, specifically designed for rk322x, with a focus on optimization. It does not have a graphical interface and is intended solely for server mode.
 
-⚠️Attention this project is still under constant development, this entire guide may be changed.
+_Attention this project is still under constant development, this entire guide may be changed._
 
 
 ## Overview
