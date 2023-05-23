@@ -23,10 +23,12 @@ SyncOS -- Remote Controled (WebServer)
 ```
 ## Basic requirements
 - [x] Ubuntu Jammy 22.04.x amd64 or aarch64 for native building or any Docker capable amd64 / aarch64 Linux for containerised
+- [x] Advanced knowledge of Linux.
 
 ## Get started
 Build minimal CLI Armbian Focal image for rk322x. Use modern kernel and write image to the SD card:<br>
-rk322x Template
+For complete reference: https://github.com/armbian/build
+<br>rk322x Template
 ```sh
 # RK322X TVBox quad core 1GB/2GB DDR2/DDR3 eMMC/NAND SoC FE WiFi
 BOARD_NAME="rk322x-box"
