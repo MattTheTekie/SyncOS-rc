@@ -1,6 +1,6 @@
 # SyncOS
 Attention, this repository contains configuration files for an embedded operating system, rk322x model.<br>
-SyncOS is an operating system based on Armbian, specifically designed for rk322x, with a focus on optimization. It does not have a graphical interface and is intended solely for server mode.
+SyncOS is an embedded operating system based on Armbian, specifically designed for rk322x, with a focus on optimization. It does not have a graphical interface and is intended solely for server mode.
 
 _Attention this project is still under constant development, this entire guide may be changed._
 
